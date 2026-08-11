@@ -1,2 +1,2 @@
-# projeto portifolio
-Projeto Portifólio
+# projeto portfolio
+Projeto Portfólio
